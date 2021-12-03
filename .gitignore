@@ -1,8 +1,28 @@
 # Compiled class file
 *.class
+log4j.xml
+
+lecture
+target
+pom.properties
+.classpath
+MANIFEST.MF
 
 # Log file
 *.log
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
 
 # BlueJ files
 *.ctxt
